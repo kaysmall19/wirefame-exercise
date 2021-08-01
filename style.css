@@ -1,0 +1,17 @@
+h1{
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align: center;
+    border: silver;
+    margin: 65%;
+}
+p{
+    color:royalblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    border: seagreen;
+}
+body{
+    background-color: salmon;
+}
